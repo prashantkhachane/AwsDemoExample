@@ -1,0 +1,9 @@
+applications:
+- name: CrudDemoExample
+path: target/CrudJar.jar
+domain: cfapps.io
+memory: 1G
+instances: 1
+services:
+- mysql
+

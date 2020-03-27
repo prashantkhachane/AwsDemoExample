@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "server.servlet.context-pathtext-path",
+    "type": "java.lang.String",
+    "description": "A description for 'server.servlet.context-pathtext-path'"
+  },
+  {
+    "name": "management.security.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.security.enabled'"
+  },
+  {
+    "name": "paypal.mode",
+    "type": "java.lang.String",
+    "description": "A description for 'paypal.mode'"
+  },
+  {
+    "name": "paypal.client.id",
+    "type": "java.lang.String",
+    "description": "A description for 'paypal.client.id'"
+  },
+  {
+    "name": "paypal.client.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'paypal.client.secret'"
+  }
+]}
